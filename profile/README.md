@@ -30,8 +30,7 @@
 ---
 
 ## 🖼 Preview
-
-![Cockos REAPER Review Interface](https://i.pcmag.com/imagery/reviews/07mUOrTy6ZOcgxSnU33TED5-25.fit_lim.size_1050x.jpg)  
+ 
 ![Cockos REAPER Version 7 UI](https://www.reaper.fm/v7img/ss_persp_v7.jpg)  
 ![Cockos REAPER Keyboard Layout](https://logickeyboard.com/images/LKB-REAP-A2PC-US%201-p.webp)
 
